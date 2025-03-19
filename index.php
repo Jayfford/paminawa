@@ -7,7 +7,7 @@ include 'views/header.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to PAMINAWA</title>
+    <title>Welcome to SPATIFY</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet" type="text/css"/>
 </head>
@@ -17,9 +17,9 @@ include 'views/header.php';
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="content-box">
-                <h1 class="text-center">Hey There! Mga Ka-PAMINAWA</h1>
+                <h1 class="text-center">Hey There! Mga Ka-SPATIFY</h1>
                 <p class="lead text-center">
-                    PAMINAWA is your go-to platform for discovering and enjoying music playlists tailored to your taste. 
+                    SPATIFY is your go-to platform for discovering and enjoying music playlists tailored to your taste. 
                     Whether you're looking for the latest hits, relaxing tunes, or workout mixes, we have something for everyone.
                 </p>
                 <p class="text-center">
